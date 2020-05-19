@@ -1,2 +1,2 @@
-# auth-jwt
-API authentication with JWT
+# git-api
+API to use git with auth
